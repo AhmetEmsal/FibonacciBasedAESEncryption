@@ -17,11 +17,7 @@ namespace FibonacciBasedAESEncryption
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            MainForm mainForm = new MainForm();
-            EncryptForms.ImageForm subForm = new EncryptForms.ImageForm();
-            subForm.mainForm = mainForm;
-
-            Application.Run(mainForm);
+            Application.Run(new MainForm());
         }
     }
 }
