@@ -10,14 +10,14 @@ ___
   * Plain text -> Encrypted text
   * .txt file  -> .faes file
   * Image file -> Encrypted image file  
-    Supported extensions of image:
+    Supported extensions as image:
     * .png
     * .jpg
 * Decryption
   * Encrypted text -> Plain text
   * .faes file -> .txt file
   * Encrypted image file -> image file  
-    Supported extensions of image:
+    Supported extensions as image:
     * .png
     * .jpg
 
@@ -26,4 +26,4 @@ ___
 **[Main codes are in this file..](FibonacciBasedAESEncryption/faes.cs)**
 
 ## Video
-Uploading Faes2.mp4…
+https://user-images.githubusercontent.com/36837237/133888263-ccd58d1d-e5bc-429d-a30a-8631a869b923.mp4
